@@ -1,0 +1,26 @@
+{
+  "name": "webdriverio-crawler-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titangene/webdriverio-crawler-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titangene/webdriverio-crawler-learn/issues"
+  },
+  "homepage": "https://github.com/titangene/webdriverio-crawler-learn#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "chromedriver": "^2.32.2",
+    "phantomjs-prebuilt": "^2.1.15",
+    "webdriverio": "^4.8.0"
+  }
+}
